@@ -9,13 +9,10 @@ public class LargestSmallestNumberFinder {
         System.out.println("Input the number: ");
         int num = sc.nextInt();
 
-        if ((num >= 1)  && (num =< 9)) {
+        if ((num >= 1)  && (num <= 9)) {
             System.out.println("Number is inside the limit!");
         } else {
             System.out.println("Number out of bunder!");
         }
-
-
-
     }
 }
