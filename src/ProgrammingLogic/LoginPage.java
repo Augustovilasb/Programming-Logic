@@ -9,6 +9,9 @@ public class LoginPage {
         String password = "senha0539wqk*";
 
         Scanner sc = new Scanner(System.in);
+
+        while (true) {
+
         System.out.println("Please enter the login: ");
         String inputLogin = sc.nextLine();
         System.out.println("Please enter the password: ");
@@ -16,9 +19,11 @@ public class LoginPage {
 
         if (login.equals(inputLogin) && password.equals(inputPassword)) {
             System.out.println("Access available!!");
+            break;
         } else {
             System.out.println("Access denied!!");
         }
 
+        }
     }
 }
