@@ -17,9 +17,9 @@ public class PellEquation {
         while (number > 0) {
             if (number - odd < 0) break;
             number = number - odd;
-            odd += 2;
             count++;
             System.out.println(count + " run: " + number + " - " + odd + " = " + count);
+            odd += 2;
         }
         System.out.println("Square root of " + inputNumber + " is: " + count);
     }
