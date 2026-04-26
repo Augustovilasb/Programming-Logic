@@ -2,7 +2,7 @@ package ProgrammingLogic;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class CalculatorWithEnum {
     public enum Calculation {
         ADD {
             public double calc(double x, double y) {
