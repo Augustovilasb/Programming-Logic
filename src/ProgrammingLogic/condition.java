@@ -11,18 +11,15 @@ public class condition {
         int number = sc.nextInt();
 
         for (int i = 1; i <= number; i++) {
-            if (i % 2 == 0) {
-                System.out.println(i + " EVEN Number");
+            if (i % 2 == 0 && i % 5 == 0) {
+                System.out.println(i + " - EVEN - multiple of 5");
+            } else if (i % 2 != 0 && i % 5 == 0) {
+                System.out.println(i + " - ODD - multiple of 5");
+            } else if (i % 2 == 0) {
+                System.out.println(i + " - EVEN");
+            } else {
+                System.out.println(i + " - ODD");
             }
-            if (i % 2 != 0) {
-                System.out.println(i + " ODD Number");
-            }
-            if ((i % 2 == 0) && (i % 5 == 0)) {
-                System.out.println(i + " Is EVEN" + " Its a ODD && multiply by 5.");
-            }
-            if ((i % 2 != 0) && (i % 5 == 0)) {
-                System.out.println(i + " Is ODD" + " Its a ODD && multiply by 5.");
-            } 
-        }
+        } 
     }
 }
