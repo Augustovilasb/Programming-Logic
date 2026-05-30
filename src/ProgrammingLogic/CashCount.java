@@ -1,7 +1,9 @@
+package ProgrammingLogic;
+
 import java.util.Scanner;
 
 public class CashCount {
-    
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -18,8 +20,8 @@ public class CashCount {
             cash = cash % change;
         }
 
-            System.out.println("Change owed: " + qntt + " cents.");
-            System.out.println("Coins: " + total);
+        System.out.println("Change owed: " + qntt + " cents.");
+        System.out.println("Coins: " + total);
 
     }
 }
