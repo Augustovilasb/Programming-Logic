@@ -37,3 +37,7 @@ java -cp out ProgrammingLogic.<ClassName>
 ```
 
 Most programs read input from the console with `Scanner` and print the result to standard output.
+
+## Contact
+
+[GitHub](https://github.com/Augustovilasb) · [LinkedIn](https://www.linkedin.com/in/augustovilasboas/)
