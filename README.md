@@ -1,12 +1,16 @@
 <h1 align="center">🧠 Programming Logic Exercises</h1>
 
 <p align="center">
-  A growing collection of standalone <strong>Java</strong> exercises built while studying programming logic —
-  the foundation for <a href="https://cs50.harvard.edu/">Harvard CS50</a>.
+  A growing collection of standalone programming-logic exercises — currently written in <strong>Java</strong>,
+  and the first step of a longer journey through <strong>Java, C, C# and Python</strong>.
+  The foundation for <a href="https://cs50.harvard.edu/">Harvard CS50</a>.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/next-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/next-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/next-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/exercises-50%2B-success?style=flat-square" alt="50+ exercises" />
   <img src="https://img.shields.io/badge/course-DevDojo-orange?style=flat-square" alt="DevDojo" />
@@ -23,6 +27,8 @@ written from scratch as I work through the
 and prepare for **Harvard CS50**.
 
 No frameworks, no build tools — just plain Java and the standard library, so the focus stays on the logic itself.
+
+Java is only the starting point. The plan is to study **programming logic across several languages — Java, C, C# and Python** — using each one to reinforce the same fundamentals from a different angle. This repo grows as that journey continues.
 
 ---
 
@@ -120,6 +126,8 @@ Most programs read input from the console via `Scanner` and print the result to 
 ## 🎯 Study goal
 
 These exercises are stepping stones toward **[Harvard CS50](https://cs50.harvard.edu/)** — building solid
-problem-solving habits before tackling the course's problem sets. New exercises are added as the studying continues.
+problem-solving habits before tackling the course's problem sets. They're also the first leg of a broader plan to
+study **Java, C, C# and Python**, so the logic learned here carries over to every language that comes next.
+New exercises are added as the studying continues.
 
 <p align="center"><em>Learning in public, one exercise at a time. 🚀</em></p>
