@@ -1,7 +1,1 @@
-# Claude Code - personal notes
-CLAUDE.md
-
-# IntelliJ IDEA
-.idea/
-*.iml
-out/
+.vscode/
