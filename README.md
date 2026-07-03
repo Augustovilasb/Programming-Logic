@@ -1,7 +1,7 @@
 # Programming Logic
 
 Exercises written in Java while studying programming logic through the DevDojo course. 
-Covers the basics — variables, conditionals, loops, arrays, recursion, and small games.
+Covers the basics.. variables, conditionals, loops, arrays, recursion, and small games.
 Building the foundation to move into C, C# and Python next.
 
 ## How to run
